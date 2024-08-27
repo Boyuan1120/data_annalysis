@@ -23,6 +23,8 @@
 ```where NOT (john)-[:HAS_SEEN]->(movie)
 ```return movie;
 ```
-4. ![image](https://github.com/user-attachments/assets/76935090-1dfd-4707-b2f9-8c7b58762af2)
+4. neo4j 数据写入官网教学地址
+   *  https://neo4j.com/docs/spark/current/gds/
+     ![image](https://github.com/user-attachments/assets/76935090-1dfd-4707-b2f9-8c7b58762af2)
 
 
